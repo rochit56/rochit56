@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**rxchit/rxchit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Hi there 👋 </h1>
 
-Here are some ideas to get you started:
+[![Axarva's github stats](https://github-readme-stats.vercel.app/api?username=rxchit&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rxchit&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p>
+<img src="https://img.icons8.com/plasticine/100/000000/rick-sanchez.png" width=25 />
+To live is to risk it all, Otherwise you're just an inert chunk of randomly assembled molecules drifting wherever the Universe blows you
+<img src="https://img.icons8.com/plasticine/100/000000/morty-smith.png" width=25 />
+</p>
+
+
+</div>
