@@ -2,9 +2,9 @@
 
 <h1 >Hi there 👋</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rxchit&show_icons=true&theme=tokyonight&locale=en" alt="rxchit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rochit56&show_icons=true&theme=tokyonight&locale=en" alt="rxchit" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxchit&layout=compact&theme=tokyonight&langs_count=6" alt="lang"/></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochit56&layout=compact&theme=tokyonight&langs_count=6" alt="lang"/></p>
 
 <img src="https://img.icons8.com/plasticine/100/000000/rick-sanchez.png" width=25 /><img src="https://img.icons8.com/plasticine/100/000000/rick-sanchez.png" width=25 /><img src="https://img.icons8.com/plasticine/100/000000/rick-sanchez.png" width=25 />
 <p>
