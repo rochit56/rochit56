@@ -21,7 +21,7 @@
   <img src='https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white'> 
   <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'> 
   <img src='https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white'> 
-  <img src='https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white'> 
+  <img src='https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white'> <br>
   <img src='https://img.shields.io/badge/Intel%20Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white'> 
   <img src='https://img.shields.io/badge/NVIDIA-GTX1050ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white'> 
   </p>
