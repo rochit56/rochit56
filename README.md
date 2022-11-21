@@ -17,7 +17,7 @@
   </p>
 
   <h3> :computer: My Current Workspace</h3>
-  <p align='center' style="width:100%;padding:15px;">
+  <p align='center' style="width:100%;padding:25px;">
   <img src='https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white'> 
   <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'> 
   <img src='https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white'> 
