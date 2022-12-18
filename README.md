@@ -3,16 +3,16 @@
 <h1 >Hi there 👋</h1>
   
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rochit56&show_icons=true&theme=tokyonight&locale=en" alt="rxchit" />
-  </p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rochit56&hide_border=true&show_icons=true&theme=tokyonight&locale=en" alt="rxchit" /> 
+<p/>
 <!-- <p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rochit56&theme=tokyonight" alt="rxchit" /></p> -->
-  <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochit56&layout=compact&theme=tokyonight&langs_count=6" alt="lang"/>
-  </p>
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochit56&hide_border=true&layout=compact&theme=tokyonight&langs_count=6" alt="lang"/> 
+  <p/>
 <!--   Streaks -->
-<!--    <p>&nbsp;
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rochit56&theme=tokyonight" alt="streak">
-  </p>  -->
+<p>&nbsp;
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rochit56&hide_border=true&theme=tokyonight" alt="streak">
+  </p>  
   <h3> :computer: My Current Workspace</h3>
   <p align='center'>
   <img src='https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white'> 
