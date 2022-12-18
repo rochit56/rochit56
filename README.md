@@ -3,7 +3,7 @@
 <h1 >Hi there 👋</h1>
   
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rochit56&hide_border=true&show_icons=true&theme=tokyonight&locale=en" alt="rxchit" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rochit56&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&locale=en" alt="rxchit" /> 
 <p/>
 <!-- <p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rochit56&theme=tokyonight" alt="rxchit" /></p> -->
 <p>&nbsp;
@@ -35,3 +35,4 @@ To live is to risk it all, Otherwise you're just an inert chunk of randomly asse
 </p>
 
 </div>
+
