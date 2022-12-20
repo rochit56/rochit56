@@ -10,9 +10,9 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochit56&hide_border=true&layout=compact&theme=tokyonight&langs_count=6" alt="lang"/> 
   <p/>
 <!--   Streaks -->
-<p>&nbsp;
+<!-- <p>&nbsp;
      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rochit56&hide_border=true&theme=tokyonight" alt="streak">
-  </p>  
+  </p>   -->
   <h3> :computer: My Current Workspace</h3>
   <p align='center'>
   <img src='https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white'> 
