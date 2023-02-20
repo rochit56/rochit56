@@ -3,15 +3,15 @@
 <h1 >Hi there 👋</h1>
   
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rochit56&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&locale=en" alt="rxchit" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rxchit&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&locale=en" alt="rxchit" /> 
 <p/>
-<!-- <p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rochit56&theme=tokyonight" alt="rxchit" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rxchit&theme=tokyonight" alt="rxchit" /></p> -->
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochit56&hide_border=true&layout=compact&theme=tokyonight&langs_count=6" alt="lang"/> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxchit&hide_border=true&layout=compact&theme=tokyonight&langs_count=6" alt="lang"/> 
   <p/>
 <!--   Streaks -->
 <!-- <p>&nbsp;
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rochit56&hide_border=true&theme=tokyonight" alt="streak">
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rxchit&hide_border=true&theme=tokyonight" alt="streak">
   </p>   -->
   <h3> :computer: My Current Workspace</h3>
   <p align='center'>
