@@ -25,10 +25,10 @@
   </p>
 -->
   
-  <p  align='center'>
-  <img src="https://img.icons8.com/plasticine/100/000000/rick-sanchez.png" width=25 />
-  <img src="https://img.icons8.com/plasticine/100/000000/rick-sanchez.png" width=25 />
-  <img src="https://img.icons8.com/plasticine/100/000000/rick-sanchez.png" width=25 />
+  <p  align='center'> 
+    <img width=50 src="https://img.icons8.com/plasticine/100/plambus.png" alt="plambus"/>
+    <img width=50 src="https://img.icons8.com/plasticine/100/plambus.png" alt="plambus"/>
+    <img width=50 src="https://img.icons8.com/plasticine/100/plambus.png" alt="plambus"/>
   </p> 
 
 <p>
